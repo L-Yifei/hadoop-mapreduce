@@ -1,0 +1,2 @@
+please download the data from
+http://content.udacity-data.com/course/hadoop/forum_data.tar.gz
